@@ -21,4 +21,8 @@ print(f"Data folder: {DATA_FOLDER}")
 print(f"Raw data path: {RAW_DATA_PATH}")
 print(f"Master file path: {MASTER_FILE_PATH}")
 print(f"Mapped file path: {MAPPED_FILE_PATH}")
+<<<<<<< HEAD
 print(f"----------------------------------------")
+=======
+print(f"----------------------------------------")
+>>>>>>> 31000cbf471c47cfd7ec4fe4b5bc6c72abd85597
